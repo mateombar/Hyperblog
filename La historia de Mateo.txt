@@ -11,9 +11,4 @@ Hoy es programador de software
 
 Cada dia aprende nuevas cosas para ser mejor
 
-<<<<<<< HEAD
-Ahora entro un introso a editar lo que quiera
-
-=======
 Hola soy mateomb2211. Espero esten muy bien c:
->>>>>>> 3b6ca70e8aae3997a5e424b6b2d8183d903e2295
