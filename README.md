@@ -8,5 +8,6 @@ Ahora estoy preparado para trabajar de manera remota con cualquier proyecto y no
 *Nunca paro de aprender.
 *Sabes que es un buen libro cuando en la ultima pagina sientes que has perdido a un gran amigo.
 *Solo son grandes aquellos que piden perdon y se corrigen y arrepienten de sus errores.
+*Las verdaderas reinas nacen en vispera de la derrota
 
 En un futuro no muy lejano **quiero crear proyectos open source** e interactuar con la gran comunidad de programadores.
